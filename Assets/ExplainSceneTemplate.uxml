@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="height: 992px; flex-direction: column; align-items: center; justify-content: center; width: 1054px;">
+        <ui:VisualElement name="VisualElement" style="height: 392px; flex-direction: row-reverse; align-items: auto; justify-content: space-between; width: 436px;" />
+        <ui:Button text="Yes!" display-tooltip-when-elided="true" name="yes" style="height: 82px; width: 311px; color: rgb(255, 255, 255); background-color: rgb(62, 89, 113); font-size: 36px;" />
+        <ui:VisualElement name="VisualElement" style="height: 68px; flex-direction: row-reverse; align-items: auto; justify-content: space-between; width: 226px;" />
+        <ui:Button text="Nope" display-tooltip-when-elided="true" name="nope" style="height: 81px; width: 306px; -unity-text-align: middle-center; background-color: rgb(62, 89, 113); border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); font-size: 36px; color: rgb(255, 255, 255);" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="height: 628px; width: 1928px;" />
+    <ui:VisualElement style="height: 240px; align-items: center; flex-direction: column-reverse; justify-content: center;">
+        <ui:Button text="Back to Menu" display-tooltip-when-elided="true" name="back2" style="font-size: 50px; border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); height: 115px; width: 358px; background-color: rgb(49, 63, 91); color: rgb(255, 255, 255);" />
+    </ui:VisualElement>
+</ui:UXML>

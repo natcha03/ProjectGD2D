@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="flex-direction: column; align-items: center;">
+        <ui:Label text="The Lost Foxie" display-tooltip-when-elided="true" style="height: 179px; width: 744px; color: rgb(255, 255, 255); font-size: 80px; -unity-text-align: middle-center; -unity-font: url(&apos;project://database/Assets/Pixel%20Font%20-%20Tripfive/Fonts/Tripfive-HS.fontsettings?fileID=12800000&amp;guid=9ebb6ca5ee4094addac513cf8528f1e1&amp;type=2#Tripfive-HS&apos;); -unity-font-style: bold;" />
+        <ui:VisualElement style="height: 384px; width: 208px;" />
+        <ui:Button text="Start" display-tooltip-when-elided="true" name="startButton" style="height: 115px; width: 300px; -unity-text-align: middle-center; background-color: rgb(56, 57, 140); border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255); font-size: 50px;" />
+        <ui:VisualElement style="height: 28px; width: 106px;" />
+        <ui:Button text="Exit" display-tooltip-when-elided="true" enable-rich-text="false" name="exitButton" style="height: 115px; width: 300px; -unity-text-align: middle-center; background-color: rgb(56, 57, 140); color: rgb(255, 254, 254); font-size: 50px; border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0);" />
+    </ui:VisualElement>
+</ui:UXML>
